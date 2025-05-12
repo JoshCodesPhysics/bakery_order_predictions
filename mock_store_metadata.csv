@@ -1,0 +1,6 @@
+store_id,store_type,region,open_hours,is_franchise
+store_1,flagship,urban,12,0
+store_2,express,urban,8,1
+store_3,outlet,rural,10,1
+store_4,express,suburban,8,0
+store_5,flagship,suburban,12,0
